@@ -1,2 +1,2 @@
-# Reseller-Sales-Dashboard-using-power-bi
+# Reseller Sales Dashboard using power bi
 Dashboard focuses on analyzing the reseller sales performance in different aspects. Steps I followed. First, understanding the business. then make the relation between the fact table and the dimensions. After that using Power BI DAX for analysis and at the end publishing the dashboard. The dashboard consists of two pages. The first one focus on sales and profit aspects with different categories and business types and employee performance in sales and the second one on the product itself, The changes  # of return, and adjusted price month over month.
