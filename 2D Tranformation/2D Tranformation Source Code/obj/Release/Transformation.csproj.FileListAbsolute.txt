@@ -1,0 +1,5 @@
+C:\Users\user\Downloads\Transformation1\Transformation\bin\Release\Transformation.exe
+C:\Users\user\Downloads\Transformation1\Transformation\obj\Release\ResolveAssemblyReference.cache
+C:\Users\user\Downloads\Transformation1\Transformation\obj\Release\Transformation.Form1.resources
+C:\Users\user\Downloads\Transformation1\Transformation\obj\Release\Transformation.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\Transformation1\Transformation\obj\Release\Transformation.exe
